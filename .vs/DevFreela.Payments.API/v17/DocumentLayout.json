@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiag\\Documents\\MENTORIA - .NET EXPERT 2024\\Projetos\\1-AspNet-Core\\DevFreela.Payments.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA94DA4-6420-4276-8ED9-D9B92B39ABA6}|DevFreela.Payments.API\\DevFreela.Payments.API.csproj|c:\\users\\thiag\\documents\\mentoria - .net expert 2024\\projetos\\1-aspnet-core\\devfreela.payments.api\\devfreela.payments.api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA94DA4-6420-4276-8ED9-D9B92B39ABA6}|DevFreela.Payments.API\\DevFreela.Payments.API.csproj|solutionrelative:devfreela.payments.api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA94DA4-6420-4276-8ED9-D9B92B39ABA6}|DevFreela.Payments.API\\DevFreela.Payments.API.csproj|c:\\users\\thiag\\documents\\mentoria - .net expert 2024\\projetos\\1-aspnet-core\\devfreela.payments.api\\devfreela.payments.api\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA94DA4-6420-4276-8ED9-D9B92B39ABA6}|DevFreela.Payments.API\\DevFreela.Payments.API.csproj|solutionrelative:devfreela.payments.api\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA94DA4-6420-4276-8ED9-D9B92B39ABA6}|DevFreela.Payments.API\\DevFreela.Payments.API.csproj|c:\\users\\thiag\\documents\\mentoria - .net expert 2024\\projetos\\1-aspnet-core\\devfreela.payments.api\\devfreela.payments.api\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA94DA4-6420-4276-8ED9-D9B92B39ABA6}|DevFreela.Payments.API\\DevFreela.Payments.API.csproj|solutionrelative:devfreela.payments.api\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA94DA4-6420-4276-8ED9-D9B92B39ABA6}|DevFreela.Payments.API\\DevFreela.Payments.API.csproj|c:\\users\\thiag\\documents\\mentoria - .net expert 2024\\projetos\\1-aspnet-core\\devfreela.payments.api\\devfreela.payments.api\\devfreela.payments.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9DA94DA4-6420-4276-8ED9-D9B92B39ABA6}|DevFreela.Payments.API\\DevFreela.Payments.API.csproj|solutionrelative:devfreela.payments.api\\devfreela.payments.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA94DA4-6420-4276-8ED9-D9B92B39ABA6}|DevFreela.Payments.API\\DevFreela.Payments.API.csproj|c:\\users\\thiag\\documents\\mentoria - .net expert 2024\\projetos\\1-aspnet-core\\devfreela.payments.api\\devfreela.payments.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DA94DA4-6420-4276-8ED9-D9B92B39ABA6}|DevFreela.Payments.API\\DevFreela.Payments.API.csproj|solutionrelative:devfreela.payments.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA94DA4-6420-4276-8ED9-D9B92B39ABA6}|DevFreela.Payments.API\\DevFreela.Payments.API.csproj|c:\\users\\thiag\\documents\\mentoria - .net expert 2024\\projetos\\1-aspnet-core\\devfreela.payments.api\\devfreela.payments.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA94DA4-6420-4276-8ED9-D9B92B39ABA6}|DevFreela.Payments.API\\DevFreela.Payments.API.csproj|solutionrelative:devfreela.payments.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA94DA4-6420-4276-8ED9-D9B92B39ABA6}|DevFreela.Payments.API\\DevFreela.Payments.API.csproj|c:\\users\\thiag\\documents\\mentoria - .net expert 2024\\projetos\\1-aspnet-core\\devfreela.payments.api\\devfreela.payments.api\\models\\paymentinfoinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA94DA4-6420-4276-8ED9-D9B92B39ABA6}|DevFreela.Payments.API\\DevFreela.Payments.API.csproj|solutionrelative:devfreela.payments.api\\models\\paymentinfoinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DevFreela.Payments.API",
+              "DocumentMoniker": "C:\\Users\\thiag\\Documents\\MENTORIA - .NET EXPERT 2024\\Projetos\\1-AspNet-Core\\DevFreela.Payments.API\\DevFreela.Payments.API\\DevFreela.Payments.API.csproj",
+              "RelativeDocumentMoniker": "DevFreela.Payments.API\\DevFreela.Payments.API.csproj",
+              "ToolTip": "C:\\Users\\thiag\\Documents\\MENTORIA - .NET EXPERT 2024\\Projetos\\1-AspNet-Core\\DevFreela.Payments.API\\DevFreela.Payments.API\\DevFreela.Payments.API.csproj",
+              "RelativeToolTip": "DevFreela.Payments.API\\DevFreela.Payments.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-10T00:59:53.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thiag\\Documents\\MENTORIA - .NET EXPERT 2024\\Projetos\\1-AspNet-Core\\DevFreela.Payments.API\\DevFreela.Payments.API\\appsettings.json",
+              "RelativeDocumentMoniker": "DevFreela.Payments.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\thiag\\Documents\\MENTORIA - .NET EXPERT 2024\\Projetos\\1-AspNet-Core\\DevFreela.Payments.API\\DevFreela.Payments.API\\appsettings.json",
+              "RelativeToolTip": "DevFreela.Payments.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T02:10:06.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Documents\\MENTORIA - .NET EXPERT 2024\\Projetos\\1-AspNet-Core\\DevFreela.Payments.API\\DevFreela.Payments.API\\Program.cs",
+              "RelativeDocumentMoniker": "DevFreela.Payments.API\\Program.cs",
+              "ToolTip": "C:\\Users\\thiag\\Documents\\MENTORIA - .NET EXPERT 2024\\Projetos\\1-AspNet-Core\\DevFreela.Payments.API\\DevFreela.Payments.API\\Program.cs",
+              "RelativeToolTip": "DevFreela.Payments.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:41:31.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Documents\\MENTORIA - .NET EXPERT 2024\\Projetos\\1-AspNet-Core\\DevFreela.Payments.API\\DevFreela.Payments.API\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "DevFreela.Payments.API\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\thiag\\Documents\\MENTORIA - .NET EXPERT 2024\\Projetos\\1-AspNet-Core\\DevFreela.Payments.API\\DevFreela.Payments.API\\Services\\PaymentService.cs",
+              "RelativeToolTip": "DevFreela.Payments.API\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:37:51.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Documents\\MENTORIA - .NET EXPERT 2024\\Projetos\\1-AspNet-Core\\DevFreela.Payments.API\\DevFreela.Payments.API\\Services\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "DevFreela.Payments.API\\Services\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\thiag\\Documents\\MENTORIA - .NET EXPERT 2024\\Projetos\\1-AspNet-Core\\DevFreela.Payments.API\\DevFreela.Payments.API\\Services\\IPaymentService.cs",
+              "RelativeToolTip": "DevFreela.Payments.API\\Services\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:37:01.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentInfoInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Documents\\MENTORIA - .NET EXPERT 2024\\Projetos\\1-AspNet-Core\\DevFreela.Payments.API\\DevFreela.Payments.API\\Models\\PaymentInfoInputModel.cs",
+              "RelativeDocumentMoniker": "DevFreela.Payments.API\\Models\\PaymentInfoInputModel.cs",
+              "ToolTip": "C:\\Users\\thiag\\Documents\\MENTORIA - .NET EXPERT 2024\\Projetos\\1-AspNet-Core\\DevFreela.Payments.API\\DevFreela.Payments.API\\Models\\PaymentInfoInputModel.cs",
+              "RelativeToolTip": "DevFreela.Payments.API\\Models\\PaymentInfoInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:35:11.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Documents\\MENTORIA - .NET EXPERT 2024\\Projetos\\1-AspNet-Core\\DevFreela.Payments.API\\DevFreela.Payments.API\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "DevFreela.Payments.API\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\thiag\\Documents\\MENTORIA - .NET EXPERT 2024\\Projetos\\1-AspNet-Core\\DevFreela.Payments.API\\DevFreela.Payments.API\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "DevFreela.Payments.API\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:32:47.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

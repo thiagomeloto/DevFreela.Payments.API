@@ -1,0 +1,73 @@
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\appsettings.json
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\DevFreela.Payments.API.staticwebassets.endpoints.json
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\DevFreela.Payments.API.exe
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\DevFreela.Payments.API.deps.json
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\DevFreela.Payments.API.runtimeconfig.json
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\DevFreela.Payments.API.dll
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\DevFreela.Payments.API.pdb
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.csproj.AssemblyReference.cache
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.AssemblyInfo.cs
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\scopedcss\bundle\DevFreela.Payments.API.styles.css
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\staticwebassets\msbuild.DevFreela.Payments.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\staticwebassets\msbuild.DevFreela.Payments.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\staticwebassets\msbuild.build.DevFreela.Payments.API.props
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DevFreela.Payments.API.props
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DevFreela.Payments.API.props
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreel.A847009A.Up2Date
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.dll
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\refint\DevFreela.Payments.API.dll
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.pdb
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.genruntimeconfig.cache
+C:\Users\thiag\source\repos\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\ref\DevFreela.Payments.API.dll
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\appsettings.json
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\DevFreela.Payments.API.staticwebassets.endpoints.json
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\DevFreela.Payments.API.exe
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\DevFreela.Payments.API.deps.json
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\DevFreela.Payments.API.runtimeconfig.json
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\DevFreela.Payments.API.dll
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\DevFreela.Payments.API.pdb
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.csproj.AssemblyReference.cache
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.AssemblyInfo.cs
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.sourcelink.json
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\scopedcss\bundle\DevFreela.Payments.API.styles.css
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\staticwebassets\msbuild.DevFreela.Payments.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\staticwebassets\msbuild.DevFreela.Payments.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\staticwebassets\msbuild.build.DevFreela.Payments.API.props
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DevFreela.Payments.API.props
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DevFreela.Payments.API.props
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreel.A847009A.Up2Date
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.dll
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\refint\DevFreela.Payments.API.dll
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.pdb
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.genruntimeconfig.cache
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\ref\DevFreela.Payments.API.dll

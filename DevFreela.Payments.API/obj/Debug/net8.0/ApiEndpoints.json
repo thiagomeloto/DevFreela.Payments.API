@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "DevFreela.Payments.API.Controllers.PaymentsController",
+    "Method": "Post",
+    "RelativePath": "api/payments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "payment",
+        "Type": "DevFreela.Payments.API.Models.PaymentInfoInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
