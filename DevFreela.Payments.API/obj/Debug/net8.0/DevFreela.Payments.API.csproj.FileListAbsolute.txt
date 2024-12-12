@@ -71,3 +71,15 @@ C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevF
 C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.pdb
 C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.genruntimeconfig.cache
 C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\obj\Debug\net8.0\ref\DevFreela.Payments.API.dll
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\thiag\Documents\MENTORIA - .NET EXPERT 2024\Projetos\1-AspNet-Core\DevFreela.Payments.API\DevFreela.Payments.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll

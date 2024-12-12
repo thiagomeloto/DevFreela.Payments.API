@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DevFreela.Payments.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+078d29962623bf35bb70227a02cefcf1c6f5e7d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e299cfd3ad9e2a9d206c04ce746e6e94b665dac")]
 [assembly: System.Reflection.AssemblyProductAttribute("DevFreela.Payments.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DevFreela.Payments.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
